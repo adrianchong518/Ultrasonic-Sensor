@@ -1,0 +1,6 @@
+{
+	"terminal.integrated.env.osx": {
+		"PATH": "/Users/adrianchong/.platformio/penv/bin:/Users/adrianchong/.platformio/penv:/usr/local/lib/ruby/gems/2.6.0/bin:/usr/local/opt/ruby/bin:/Users/adrianchong/bin:/usr/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:/Library/Frameworks/Mono.framework/Versions/Current/Commands",
+		"PLATFORMIO_CALLER": "vscode"
+	}
+}
